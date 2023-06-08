@@ -1,4 +1,4 @@
-# Time-stamp: <2023-06-09 00:17:00 angelv> 
+# Time-stamp: <2023-06-09 00:19:50 angelv> 
 
 #+TITLE:   Ángel de Vicente's Personal Page
 #+AUTHOR:  Ángel de Vicente
@@ -8,13 +8,6 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 #+OPTIONS:   H:6 num:6 toc:4 author:t email:t title:t
-
-#+HTML_HEAD: <style>
-#+HTML_HEAD: details summary::-webkit-details-marker {
-#+HTML_HEAD:  color: green; 
-#+HTML_HEAD:  font-size: 20px;
-#+HTML_HEAD: }
-#+HTML_HEAD: </style>
 
 * Introduction
 
@@ -26,10 +19,8 @@
 + [[https://github.com/angel-devicente/slurm_burros][Slurm in Burros (private): admin and user]]
 + [[https://github.com/angel-devicente/slurm_lapalma][Slurm in LaPalma (private)]]
 
+** Testing
 
-
-#+HTML: <details> <summary>
-**Title goes here**
-#+HTML: </summary>
+#+HTML: <details> <summary><b>Title goes here</b></summary>
 blahs
 #+HTML: </details>
