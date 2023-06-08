@@ -1,4 +1,4 @@
-# Time-stamp: <2023-06-08 09:36:22 angelv> 
+# Time-stamp: <2023-06-08 23:58:28 angelv> 
 
 #+TITLE:   Ángel de Vicente's Personal Page
 #+AUTHOR:  Ángel de Vicente
@@ -19,3 +19,19 @@
 + [[https://github.com/angel-devicente/slurm_burros][Slurm in Burros (private): admin and user]]
 + [[https://github.com/angel-devicente/slurm_lapalma][Slurm in LaPalma (private)]]
 
+
+#+BEGIN_EXPORT html
+<details>
+#+END_EXPORT
+
+blah blah
+
+#+BEGIN_EXPORT html
+</details>
+#+END_EXPORT
+
+
+
+#+HTML: <details>
+blahs
+#+HTML: </details>
