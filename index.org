@@ -1,4 +1,4 @@
-# Time-stamp: <2023-06-09 00:12:16 angelv> 
+# Time-stamp: <2023-06-09 00:17:00 angelv> 
 
 #+TITLE:   Ángel de Vicente's Personal Page
 #+AUTHOR:  Ángel de Vicente
@@ -27,18 +27,9 @@
 + [[https://github.com/angel-devicente/slurm_lapalma][Slurm in LaPalma (private)]]
 
 
-#+BEGIN_EXPORT html
-<details>
-#+END_EXPORT
 
-blah blah
-
-#+BEGIN_EXPORT html
-</details>
-#+END_EXPORT
-
-
-
-#+HTML: <details> <summary>Title goes here</summary>
+#+HTML: <details> <summary>
+**Title goes here**
+#+HTML: </summary>
 blahs
 #+HTML: </details>
